@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="logo.ico" alt="TigoStudio" width="220">
+  <img src="https://raw.githubusercontent.com/nhannguyen2005/botitem/main/LogoStudio.png" alt="TigoStudio" width="420">
   <h1>BotItem</h1>
   <p><strong>Sản phẩm của TigoStudio</strong></p>
   <p>Hướng dẫn cài đặt, sử dụng và kích hoạt</p>
@@ -9,7 +9,7 @@
 
 ## Giới thiệu
 
-BotItem là bộ ứng dụng Windows được lưu trữ trong repository này. Repo hiện có các tệp thực thi `QLTK.exe`, `DragonBoy250.exe`, thư mục dữ liệu `DragonBoy250_Data`, cùng các thành phần phụ trợ như `Guna.UI2.dll` và biểu tượng thương hiệu `logo.ico`.
+BotItem là bộ ứng dụng Windows được lưu trữ trong repository này. Repo hiện có các tệp thực thi `QLTK.exe`, `DragonBoy250.exe`, thư mục dữ liệu `DragonBoy250_Data`, cùng các thành phần phụ trợ như `Guna.UI2.dll` và biểu tượng thương hiệu `LogoStudio.png`.
 
 > Lưu ý: Repository hiện cung cấp tập tin đã biên dịch và tài nguyên đi kèm. Do đó, hướng dẫn dưới đây tập trung vào việc chuẩn bị môi trường chạy, cách truy cập, sử dụng và hỗ trợ kích hoạt key theo kênh chính thức của TigoStudio.
 
@@ -34,7 +34,7 @@ BotItem/
 ├─ DragonBoy250_Data/
 ├─ Guna.UI2.dll
 ├─ QLTK.exe
-├─ logo.ico
+├─ LogoStudio.png
 ├─ README.md
 ```
 
@@ -74,7 +74,7 @@ Thông tin nên cung cấp khi liên hệ:
 | `DragonBoy250.exe` | Tệp thực thi phụ/phiên bản tương ứng. |
 | `DragonBoy250_Data/` | Thư mục dữ liệu đi kèm, cần giữ nguyên vị trí. |
 | `Guna.UI2.dll` | Thư viện giao diện hỗ trợ ứng dụng. |
-| `logo.ico` | Logo thương hiệu TigoStudio. |
+| `LogoStudio.png` | Logo thương hiệu TigoStudio. |
 
 ## Xử lý sự cố thường gặp
 
@@ -97,6 +97,6 @@ BotItem và nhận diện thương hiệu TigoStudio thuộc quyền quản lý 
 ---
 
 <div align="center">
-  <img src="logo.ico" alt="TigoStudio" width="120">
+  <img src="https://raw.githubusercontent.com/nhannguyen2005/botitem/main/LogoStudio.png" alt="TigoStudio" width="180">
   <p><strong>TigoStudio</strong></p>
 </div>
